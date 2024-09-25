@@ -40,9 +40,15 @@ This project demonstrates core CRUD functionality, React state management, and A
 - Access the job application platform via `http://localhost:3000`.
 - Ensure the JSON Server is running on `http://localhost:5000` for data persistence.
 
+**Home**
+![Description of Image](https://raw.githubusercontent.com/mfaras94/react-job-app/main/src/assets/images/localhost_3000_.png)
 
-## 🤝 Contributions
-Contributions are welcome! Feel free to submit a pull request or open an issue for discussion.
+**Job Listings**
+![Description of Image](https://raw.githubusercontent.com/mfaras94/react-job-app/main/src/assets/images/localhost_3000_(1).png)
 
-## 📄 License
-This project is licensed under the MIT License.
+**Add / Edit Jobs**
+![Description of Image](https://raw.githubusercontent.com/mfaras94/react-job-app/main/src/assets/images/localhost_3000_(2).png)
+
+**Jobs Detailds**
+![Description of Image](https://raw.githubusercontent.com/mfaras94/react-job-app/main/src/assets/images/localhost_3000_(3).png)
+
