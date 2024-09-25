@@ -21,7 +21,7 @@ This project demonstrates core CRUD functionality, React state management, and A
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mfaras94/job-app-platform.git
+   git clone https://github.com/mfaras94/react-job-app.git
    ```
 2. Install dependencies:
    ```bash
