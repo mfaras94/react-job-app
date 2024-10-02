@@ -40,6 +40,8 @@ This project demonstrates core CRUD functionality, React state management, and A
 - Access the job application platform via `http://localhost:3000`.
 - Ensure the JSON Server is running on `http://localhost:5000` for data persistence.
 
+## 📸 Screenshots
+
 **Home**
 ![Description of Image](https://raw.githubusercontent.com/mfaras94/react-job-app/main/src/assets/images/localhost_3000_.png)
 
